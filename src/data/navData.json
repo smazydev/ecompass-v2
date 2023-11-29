@@ -2,7 +2,7 @@
   "nav": [
     {
       "nav_name": "Home",
-      "link": "/digital-agency"
+      "link": "/"
     },
     {
       "nav_name": "About",

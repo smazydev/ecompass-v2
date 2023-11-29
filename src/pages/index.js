@@ -1,12 +1,10 @@
 import { useRouter } from "next/router";
- import { useEffect } from "react";
+import DigitalAgency from "./digital-agency";
 
 const Index = () => {
   const router = useRouter();
-  useEffect(() => {
-    router.push("/digital-agency");
-  }, [router]);
-  return <div></div>;
+ 
+  return <DigitalAgency />;
 };
 
 export default Index;
