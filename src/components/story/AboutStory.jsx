@@ -34,7 +34,7 @@ const AboutStory = () => {
                     entirely new level.
                   </p>
                   <p>
-                    ur specialized team of researchers, strategists, designers,
+                    Our specialized team of researchers, strategists, designers,
                     developers, and project managers work with streamlined
                     processes to break through organizational roadblocks. We
                     translate research into solutions, crafting thoughtful and
