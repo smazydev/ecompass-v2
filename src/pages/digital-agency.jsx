@@ -78,7 +78,7 @@ const DigitalAgency = () => {
   return (
     <div>
       <Head>
-        <title>Digital Agency</title>
+        <title>Ecompasse - Home </title>
         <meta name="description" content="Digital Agency Description" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
